@@ -197,9 +197,6 @@ src/
 
 ---
 
-## 🤝 Team
-
-Built for the Tesco AI Hackathon with ❤️
 
 ---
 
